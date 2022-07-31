@@ -1,0 +1,8 @@
+1. Create a div that changes color when the cursor hovers.
+
+2. Create 8 divs in a row, in a flex container with a width of 800px.
+
+3. Create 8 rows of 8 divs each, with a height of 800px.
+
+4. Prompt for number of squares per side, up to 100. Create that array of divs within the 800x800 frame.
+
